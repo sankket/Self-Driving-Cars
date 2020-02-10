@@ -22,3 +22,11 @@ columns = ['center', 'left', 'right', 'steering', 'throttle', 'reverse', 'speed'
 data = pd.read_csv(os.path.join(datadir, 'driving_log.csv'), names = columns)
 pd.set_option('display.max_colwidth', -1)
 data.head()
+
+def path_leaf(path):
+  head, tail = ntpath.split(path)
+  return tail
+data['center'] = data['center'].apply(path_leaf)
+data['left'] = data['left'].apply(path_leaf)
+data['right'] = data['right'].apply(path_leaf)
+data.head()
