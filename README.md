@@ -2,11 +2,12 @@
 # Repository of My Final Year Project
 
 
-Visual Perception for Self Driving Cars
+## Visual Perception for Self Driving Cars
+
 Here We Developed Three Models:  
-1) Lane line Detection Using OpenCV  
-2) Traffic Sign Recognition  
-3) Beheavioural Clonning and AV Model with Simulator(eg. Udacity and Carla Simulator)
+1) Lane line Detection Using OpenCV     
+2) Traffic Sign Recognition    
+3) Beheavioural Clonning and AV Model with Simulator(eg. Here we used Udacity Simulator for Testing Purposes.)  
 
 
 
