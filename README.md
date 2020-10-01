@@ -7,9 +7,9 @@ Autonomous cars are the future smart cars anticipated to be driver less, efficie
 
 Here We Developed Three Models:  
 1) Lane line Detection Using OpenCV     
-2) Traffic Sign Recognition    
+2) Traffic Sign Detection & Recognition    
 3) Beheavioural Clonning and AV Model with Simulator(eg. Here we used Udacity Simulator for Testing Purposes).    
 
 
 
-![Image of Yaktocat](https://miro.medium.com/max/967/1*luP5Icnj7QjDRIem5wV_Bw.png)
+![Image of Yaktocat](https://miro.medium.com/max/967/1*luP5Icnj7QjDRIem5wV_Bw.png)  
