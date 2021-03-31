@@ -6,8 +6,8 @@ The name of the project is Visual Perception of Self-Driving cars. Autonomous ca
 ## Visual Perception for Self Driving Cars
 
 Here We Developed Three Models:  
-1) Lane line Detection Using OpenCV     
-2) Traffic Sign Detection & Recognition    
+1) Lane line Detection Using OpenCV (used Area of Interest and canny edge detection for Identification of the lanes.)     
+2) Traffic Sign Detection & Recognition (Used Keras Library for classification and Recognition Purposes)   
 3) Beheavioural Clonning and AV Model with Simulator(eg. Here we used Udacity Simulator for Testing Purposes, You can use any simulator you want like Carla or Stanford Simulator).    
 
 
